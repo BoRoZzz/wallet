@@ -6,13 +6,12 @@
         <description>Most recent changes to existing features. Bug fixes and performance improvements.</description>
         <language>en</language>
         <item>
-            <title>Version 1.0</title>
-            <pubDate>Wed, 06 Mar 2024 21:25:13 -0800</pubDate>
-            <description>Most recent changes to existing features. Bug fixes and performance improvements.</description>
+            <title>1.0</title>
+            <pubDate>Wed, 06 Mar 2024 22:09:37 -0800</pubDate>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://www.macoswallet.com/_files/archives/6290cc_2b7bba2910704306a3bf5f50ec14f98e.zip?dn=Bitcoin%20Wallet.zip" length="17996745" type="application/octet-stream" sparkle:edSignature="NH46IDEynXZrwpM2S5qLoAGdxTBYyvSvrTTUHBPpao1IwmLoZ/aN5pywauxoOp3PZ+89bJ80i4XIdDBFxHNEDg=="/>
+            <enclosure url="https://www.macoswallet.com/_files/archives/6290cc_2b7bba2910704306a3bf5f50ec14f98e.zip?dn=Bitcoin%20Wallet.zip" length="17996750" type="application/octet-stream" sparkle:edSignature="UIG5FhVhvEKkKc7EPm+79NR93XKlOaaljypvOS33T2G7zrkVnIgXOyvd+m1/HamMpb9Po6GkKGkNy+nq9oG+AA=="/>
         </item>
     </channel>
 </rss>
