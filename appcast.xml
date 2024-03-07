@@ -8,6 +8,7 @@
         <item>
             <title>Version 1.0</title>
             <pubDate>Wed, 06 Mar 2024 21:25:13 -0800</pubDate>
+            <description>Most recent changes to existing features. Bug fixes and performance improvements.</description>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
