@@ -2,8 +2,11 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Bitcoin Wallet</title>
+        <link>https://www.macoswallet.com</link>
+        <description>Most recent changes to existing features. Bug fixes and performance improvements.</description>
+        <language>en</language>
         <item>
-            <title>1.0</title>
+            <title>Version 1.0</title>
             <pubDate>Wed, 06 Mar 2024 21:25:13 -0800</pubDate>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
