@@ -11,7 +11,7 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://www.macoswallet.com/_files/archives/6290cc_2b7bba2910704306a3bf5f50ec14f98e.zip?dn=Bitcoin%20Wallet.zip" length="17996750" type="application/octet-stream" sparkle:edSignature="UIG5FhVhvEKkKc7EPm+79NR93XKlOaaljypvOS33T2G7zrkVnIgXOyvd+m1/HamMpb9Po6GkKGkNy+nq9oG+AA=="/>
+            <enclosure url="https://www.macoswallet.com/_files/archives/6290cc_856d8d1c2d064684b090ec6a2ac2ced2.zip?dn=Bitcoin%20Wallet.zip" length="17997064" type="application/octet-stream" sparkle:edSignature="bRytqbv7gWsMRiTCxjqh6I6ylux7XKgjM5n5TZ/vbRbF/kWtweOalVo/JO0cGvlX0hYTS4rpN8IauGqqkuTfCQ=="/>
         </item>
     </channel>
 </rss>
